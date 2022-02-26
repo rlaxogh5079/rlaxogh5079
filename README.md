@@ -13,7 +13,6 @@ CellPhone : `010-3347-5079`
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=FFFFFF)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=FFFFFF)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=FFFFFF)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=FFFFFF)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=FFFFFF)
