@@ -16,13 +16,11 @@ CellPhone : `010-3347-5079`
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=FFFFFF)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=FFFFFF)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=FFFFFF)
 
 <h3>✍️Studying</h3> <br>
 
 ![LinuxOS Badge](https://img.shields.io/badge/LinuxOS-FCC624?style=plastic&logo=Linux&logoColor=FFFFFF)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=FFFFFF)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=FFFFFF)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=FFFFFF)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=FFFFFF)
 
 <h3>👏My Stats</h3> <br>
