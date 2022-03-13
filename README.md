@@ -23,7 +23,7 @@ CellPhone : `010-3347-5079`
 ![LinuxOS Badge](https://img.shields.io/badge/LinuxOS-FCC624?style=plastic&logo=Linux&logoColor=FFFFFF)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=FFFFFF)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=FFFFFF)
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=FFFFFF)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=FFFFFF)
 
 <h3>👏My Stats</h3> <br>
  
