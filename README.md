@@ -24,6 +24,7 @@ CellPhone : `010-3347-5079`
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=FFFFFF)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=FFFFFF)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=FFFFFF)
+![Rust Badge](https://img.shields.io/badge/C++-000000?style=plastic&logo=Rust&logoColor=FFFFFF)
 
 <h3>👏My Stats</h3> <br>
  
