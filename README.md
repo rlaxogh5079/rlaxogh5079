@@ -5,8 +5,6 @@ Hits :
 Gmail :
 ![Gmail Badge](https://img.shields.io/badge/rlaxogh507906@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF)
 <br>
-CellPhone : `010-3347-5079`
-<br>
 
 <h3>💪Skills</h3> <br>
 
