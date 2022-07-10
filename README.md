@@ -12,7 +12,8 @@ Developer-Type : Back-End
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=FFFFFF) &nbsp; : 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=FFFFFF) &nbsp;
-![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=FFFFFF)
+![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=FFFFFF) &nbsp;
+![React.js Badge](https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=React&logoColor=FFFFFF)
 <br>
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF) &nbsp; :
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=FFFFFF) &nbsp;
